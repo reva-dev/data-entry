@@ -57,7 +57,7 @@ nav { display: flex; justify-content: space-between; align-items: center; paddin
 .card-skills { min-height: 145px; display: flex; justify-content: center; align-items: center; flex-direction: column; padding: 28px 16px; text-align: center; }
 .card-skills ion-icon { font-size: 2.2rem; color: var(--color-first); margin-bottom: 14px; }
 .card-skills h4 { font-weight: 600; }
-.content { display: grid; align-items: start; grid-template-columns: 70px 1fr 1fr; gap: 35px; padding: 10px 0 50px; }
+.content { display: grid; align-items: start; grid-template-columns: 1fr 1fr; gap: 50px; padding: 10px 0 50px; }
 .icon-contact { display: flex; flex-direction: column; align-items: center; gap: 1rem; font-size: 1.8rem; margin-top: 90px; }
 .left { display: flex; flex-direction: column; margin-top: 50px; }
 .left h1 { padding-bottom: 15px; letter-spacing: 1.1px; font-size: 2.2rem; font-family: var(--font-head); background-image: linear-gradient(to right, #6a5cff 1%, #b77bf0 70%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
