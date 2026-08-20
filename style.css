@@ -17,7 +17,7 @@ body { font-family: var(--font-body); background: radial-gradient(circle at top,
 a { color: inherit; }
 .container { max-width: 1200px; margin: 0 auto; padding: 0 18px; }
 header { position: sticky; top: 0; z-index: 100; background: rgba(11,15,26,.78); backdrop-filter: blur(12px); }
-nav { display: flex; justify-content: space-between; align-items: center; padding: 20px 0; }
+nav { display: flex; justify-content: space-between; align-items: center; padding: 25px 0; }
 .logo { color: var(--color-first); font-family: var(--font-head); letter-spacing: 1px; font-weight: 700; }
 .nav-menu { display: flex; gap: 3rem; list-style: none; }
 .nav-menu a { font-family: var(--font-head); color: var(--color-body); text-decoration: none; font-size: 1rem; font-weight: 500; position: relative; }
