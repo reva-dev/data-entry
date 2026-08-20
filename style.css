@@ -16,7 +16,7 @@
 body { font-family: var(--font-body); background: radial-gradient(circle at top, rgba(183,123,240,.12), transparent 34%), var(--color-bg); color: var(--color-body); }
 a { color: inherit; }
 .container { max-width: 1200px; margin: 0 auto; padding: 0 18px; }
-header { position: sticky; top: 0; z-index: 100; background: rgba(11,15,26,.78); backdrop-filter: blur(12px); padding: 10px 0; }
+header { position: sticky; top: 0; z-index: 100; background: rgba(11,15,26,.78); backdrop-filter: blur(12px); padding: 5px 0; }
 nav { display: flex; justify-content: space-between; align-items: center; padding: 20px 0; }
 .logo { color: var(--color-first); font-family: var(--font-head); letter-spacing: 1px; font-weight: 700; }
 .nav-menu { display: flex; gap: 3rem; list-style: none; }
